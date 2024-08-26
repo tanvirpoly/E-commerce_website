@@ -1,0 +1,12 @@
+    .bg-blue { background-color:blue;color:white; }
+    .bg-skyblue { background-color:#9acbff;color:white; }
+    .bg-violet { background-color:#7d2c58;color:white; }
+    .bg-violet:hover { background-color:#a93976;color:white; }
+    .bg-purple { background-color:#b79aed;color:white; }
+    .bg-red { background-color:red;color:white; }
+    .bg-hotpink { background-color:#FFABE1;color:white; }
+    .bg-pink { background-color:#ff9ac9;color:white; }
+    .bg-brown { background-color:#884A39;color:white; }
+    .bg-yellow { background-color:yellow;color:white; }
+    .bg-orange { background-color:orange;color:white !important; }
+    .bg-orange:hover { background-color:orange;color:black !important; }
